@@ -1,11 +1,15 @@
-👋 Hey, I'm KesavaRaam
-🚀 Software Engineer | .NET & Backend Developer | Full-Stack Developer | AI & GenAI Enthusiast
+<div align="center">
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Solutions;Crafting+Clean+%26+Maintainable+APIs;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:79A500&height=200&section=header&text=KesavaRaam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%26%20Backend%20%7C%20AI%2FGenAI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center"> <a href="https://github.com/kesavaram96"> <img src="https://img.shields.io/github/followers/kesavaram96?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/kesavaram96?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-33-blue?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=%24+whoami;software+engineer+%E2%80%94+backend%2C+.NET%2C+APIs;%24+cat+currently_exploring.txt;generative+ai+%2B+ai+agents;%24+status;shipping+production+systems+that+don't+fall+over" alt="Typing SVG" />
 
+<a href="https://github.com/kesavaram96"><img src="https://img.shields.io/github/followers/kesavaram96?label=Followers&style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/kesavaram96?tab=repositories"><img src="https://img.shields.io/badge/Repositories-33-blue?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<img src="https://komarev.com/ghpvc/?username=kesavaram96&label=Profile+Views&color=36BCF7&style=for-the-badge" />
 
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:79A500,100:36BCF7&height=4&section=header" width="100%"/>
 
@@ -33,7 +37,7 @@ const kesavaraam = {
 graph LR
     A[🎓 University of Jaffna<br/>B.ICT Hons] --> B[💼 Capecom Solutions]
     B --> C[💼 HCL Technologies Lanka]
-    C --> D[🎓 Master of IT<br/>in progress]
+    C --> D[🎓 Master of IT<br/>Completed]
     D --> E[🏦 Seylan Bank<br/>Software Engineer]
     style A fill:#36BCF7,color:#fff
     style B fill:#4a9fd8,color:#fff
@@ -64,34 +68,6 @@ graph LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:79A500&height=4&section=header" width="100%"/>
 
-## 🗂️ Things I've Built
-
-<details open>
-<summary><b>🚌 Bus Booking System</b> — <code>ASP.NET Core</code> <code>C#</code> <code>SQL Server</code> <code>React</code></summary>
-<br>
-A full reservation platform — routes, schedules, seat allocation, passenger management. The unglamorous part (concurrent seat locking, schedule conflicts) is where the real engineering lived.
-</details>
-
-<details>
-<summary><b>🔐 Authentication API</b> — <code>ASP.NET Core</code> <code>C#</code> <code>JWT</code> <code>SQL Server</code></summary>
-<br>
-Token-based authentication and authorization built for secure, production-grade API access.
-</details>
-
-<details>
-<summary><b>📄 Security Document Management System</b> — <code>Python</code> <code>REST API</code> <code>React</code> <code>SQL Server</code></summary>
-<br>
-Secure document handling, organization, and API-based integration for enterprise use.
-</details>
-
-<details>
-<summary><b>📚 ReadBook</b> — <code>Python</code> <code>Django</code> <code>HTML</code> <code>CSS</code></summary>
-<br>
-A web-based book management application.
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:79A500,100:36BCF7&height=4&section=header" width="100%"/>
-
 ## 📊 Profile Metrics
 
 <p align="center">
@@ -112,33 +88,30 @@ A web-based book management application.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake.svg" />
+    <img alt="snake game contribution graph" src="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:79A500&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:79A500,100:36BCF7&height=4&section=header" width="100%"/>
 
 ## 🎓 Credentials
 
-- 🎓 Master of Information Technology *(in progress)*
+- 🎓 Master of Information Technology — Uva Wellassa University
 - 🎓 Bachelor of Information and Communication Technology (Hons) — University of Jaffna
 - 🏅 Microsoft Certified: Dynamics 365 Fundamentals (CRM)
 - 🏅 Microsoft Certified: Power Platform Fundamentals
 - 📄 Publication: *Agent-Based Product Selection in Multi Websites*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:79A500,100:36BCF7&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:79A500&height=4&section=header" width="100%"/>
 
 ## 📡 Skill Signal
 
-```text
-.NET & Clean Architecture   ▰▰▰▰▰▰▰▰▰▰  100%   rock solid
-Backend Engineering         ▰▰▰▰▰▰▰▰▰▰  100%   home turf
-REST API Development        ▰▰▰▰▰▰▰▰▰▰  100%   could do it half asleep
-SQL & Database Engineering  ▰▰▰▰▰▰▰▰▰░   90%   still learning the edge cases
-React & Full Stack          ▰▰▰▰▰▰▰▰░░   80%   comfortable, not a specialist
-Generative AI                ▰▰▰▰▰▰▰▰░░  75%   fast-moving, keeping pace
-Cloud & DevOps                ▰▰▰▰▰▰▰░░░  65%   growing deliberately
-AI Agents                     ▰▰▰▰▰░░░░░  50%   actively figuring it out
-```
+<p align="center">
+  <img src="./assets/skill-bars.svg" alt="animated skill bars" width="100%"/>
+</p>
 
 <div align="center">
 
