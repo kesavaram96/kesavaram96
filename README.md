@@ -1,254 +1,139 @@
-# 👋 Hey, I'm KesavaRaam
-
-### 🚀 Software Engineer | .NET & Backend Developer | Full-Stack Developer | AI & GenAI Enthusiast
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Solutions;Crafting+Clean+%26+Maintainable+APIs;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&color=79A500&height=67&duration=3000&center=true&vCenter=true&lines=Hi+There!+I'm+KesavaRaam" alt="KesavaRaam" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kesavaram96">
-    <img src="https://img.shields.io/github/followers/kesavaram96?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/kesavaram96?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-33-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="500" />
 </p>
 
----
+```
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@                                                      @@
+@@        _____                                        @@
+@@       /     \      C#  ·  .NET  ·  SQL Server        @@
+@@      | () () |     backend engineer, Sri Lanka        @@
+@@       \  ^  /      currently deep in GenAI + agents   @@
+@@       |||||||                                        @@
+@@                                                      @@
+@@   .----------------------------------------------.   @@
+@@   | while ( !bugFree ) { debug(); coffee.drink(); }|   @@
+@@   '----------------------------------------------'   @@
+@@                                                      @@
+@@   "Simple enough to understand,                     @@
+@@    strong enough to scale,                          @@
+@@    flexible enough to evolve."                      @@
+@@                                                      @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+<p align="center">
+  <b>🔥 FUN FACT EVERYDAY 🔥</b><br>
+  <i>"The first computer bug was an actual moth found trapped in a Harvard Mark II relay in 1947."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:79A500,100:36BCF7" width="100%"/>
+</p>
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer from Sri Lanka** passionate about designing and building reliable, scalable, and maintainable software systems.
+Software Engineer based in Sri Lanka, working mainly in **C#, ASP.NET Core, and SQL Server** — building the kind of systems where "it mostly works" doesn't cut it: banking features, booking platforms, document pipelines. Currently splitting time between that and **AI agents / Generative AI**, figuring out what's actually production-worthy versus what's just a good demo.
 
-My core expertise is in **C#, .NET, ASP.NET Core, REST APIs, SQL Server and modern web technologies**. I enjoy working on backend architecture, enterprise applications, financial systems, and full-stack solutions.
-
-I'm also increasingly exploring **Artificial Intelligence, Generative AI, automation, and intelligent software solutions**.
-
-```text
-💻 Software Engineering
-   ├── Backend Development
-   ├── RESTful APIs
-   ├── Enterprise Applications
-   └── System Architecture
-
-🚀 Technology
-   ├── .NET / ASP.NET Core
-   ├── C#
-   ├── React
-   ├── Python
-   └── SQL Server
-
-🤖 Exploring
-   ├── Artificial Intelligence
-   ├── Generative AI
-   ├── AI Agents
-   └── Intelligent Applications
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,python,java,js,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,js,react,html,css,mssql,mysql,git,github,vscode,visualstudio,docker,azure" />
 </p>
 
-### ⚙️ Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,django" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:36BCF7,100:79A500" width="100%"/>
 </p>
 
-**ASP.NET Core • Web API • MVC • Entity Framework Core • REST APIs • JWT • Clean Architecture**
+## 🗂️ Things I've Built
 
-### 🎨 Frontend
+| Project | Stack |
+|---|---|
+| 🚌 **Bus Booking System** — routes, schedules, seat allocation, passenger management | `ASP.NET Core` `C#` `SQL Server` `React` |
+| 🔐 **Authentication API** — token-based auth for secure, production-grade access | `ASP.NET Core` `C#` `JWT` `SQL Server` |
+| 📄 **Security Document Management System** — secure handling, org, API integration | `Python` `REST API` `React` `SQL Server` |
+| 📚 **ReadBook** — a web-based book management app | `Python` `Django` `HTML` `CSS` |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:79A500,100:36BCF7" width="100%"/>
 </p>
 
-**React • JavaScript • HTML5 • CSS3 • Bootstrap • Material UI**
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql" />
-</p>
-
-**SQL Server • MySQL • Database Design • Query Optimization**
-
-### ☁️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,azure" />
-</p>
-
-**Git • GitHub • Visual Studio • VS Code • Docker • Azure DevOps**
-
-### 🤖 AI & Emerging Technologies
-
-**Generative AI • AI Engineering • LLMs • AI Agents • Prompt Engineering • Automation**
-
----
-
-## 🏗️ What I Build
-
-I enjoy developing systems such as:
-
-* 🔐 Authentication & Authorization Systems
-* 🏦 Financial & Banking Applications
-* 🚌 Bus Reservation & Booking Systems
-* 📄 Document Management Systems
-* 🌐 RESTful APIs
-* 🏥 Management Systems
-* 📊 Business Applications
-* 🤖 AI-powered Applications
-* ⚙️ Automation Solutions
-
----
-
-## 🚀 Featured Projects
-
-### 🚌 Bus Booking System
-
-A bus reservation platform designed for managing routes, schedules, passengers, bookings and seat allocation.
-
-**Tech:** `ASP.NET Core` `C#` `SQL Server` `React`
-
----
-
-### 🔐 ASP.NET Core Authentication API
-
-Authentication and authorization system implementing secure API access and token-based authentication.
-
-**Tech:** `ASP.NET Core` `C#` `JWT` `SQL Server`
-
----
-
-### 📚 ReadBook
-
-A web-based book management/application project built using Python and Django.
-
-**Tech:** `Python` `Django` `HTML` `CSS`
-
----
-
-### 📄 Security Document Management System
-
-A document management solution focused on secure document handling, organization and API-based integration.
-
-**Tech:** `Python` `REST API` `React` `SQL Server`
-
----
-
-## 📈 GitHub Statistics
+## 📊 Profile Metrics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesavaram96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavaram96&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 Contribution Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kesavaram96&theme=tokyonight&hide_border=false" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kesavaram96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/kesavaram96?tab=stars&sort=stargazers">
+    <img alt="total stars" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kesavaram96" />
+  </a>
+  <a href="https://github.com/kesavaram96?tab=followers">
+    <img alt="followers" src="https://custom-icon-badges.herokuapp.com/github/followers/kesavaram96?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
+  </a>
+</p>
 
-## 🎓 Education & Certifications
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kesavaram96&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" />
+</p>
 
-🎓 **Master of Information Technology**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-🎓 **Bachelor of Information and Communication Technology (Hons)**
-University of Jaffna
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:36BCF7,100:79A500" width="100%"/>
+</p>
 
-🏅 **Microsoft Certified: Dynamics 365 Fundamentals (CRM)**
+## 🎓 Credentials
 
-🏅 **Microsoft Certified: Power Platform Fundamentals**
+- 🎓 Master of Information Technology *(in progress)*
+- 🎓 Bachelor of Information and Communication Technology (Hons) — University of Jaffna
+- 🏅 Microsoft Certified: Dynamics 365 Fundamentals (CRM)
+- 🏅 Microsoft Certified: Power Platform Fundamentals
+- 📄 Publication: *Agent-Based Product Selection in Multi Websites*
 
----
-
-## 📚 Publication
-
-### 📄 Agent-Based Product Selection in Multi Websites
-
-Research project completed as part of my Bachelor's degree, focusing on intelligent product selection across multiple websites.
-
----
-
-## 💡 Currently Exploring
+## 📡 Skill Signal
 
 ```text
-.NET & Clean Architecture       ████████████████████
-Backend Engineering             ████████████████████
-REST API Development            ████████████████████
-SQL & Database Engineering      ██████████████████░░
-React & Full Stack              ████████████████░░░░
-Cloud & DevOps                  █████████████░░░░░░░
-Artificial Intelligence         ███████████████░░░░░
-Generative AI                   ████████████░░░░░░░░
-AI Agents                       ██████████░░░░░░░░░░
+.NET & Clean Architecture   ▰▰▰▰▰▰▰▰▰▰  100%
+Backend Engineering         ▰▰▰▰▰▰▰▰▰▰  100%
+REST API Development        ▰▰▰▰▰▰▰▰▰▰  100%
+SQL & Database Engineering  ▰▰▰▰▰▰▰▰▰░   90%
+React & Full Stack          ▰▰▰▰▰▰▰▰░░   80%
+Generative AI                ▰▰▰▰▰▰▰▰░░  75%
+Cloud & DevOps                ▰▰▰▰▰▰▰░░░  65%
+AI Agents                     ▰▰▰▰▰░░░░░  50%
 ```
 
----
-
-## 🎯 My Engineering Philosophy
-
-> **"Build software that is simple enough to understand, strong enough to scale, and flexible enough to evolve."**
-
-I believe good software isn't just about making things work.
-
-It's about building systems that are:
-
-**⚡ Reliable • 🔒 Secure • 📈 Scalable • 🧩 Maintainable • 🚀 Production Ready**
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:79A500,100:36BCF7" width="100%"/>
+</p>
 
 ## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://github.com/kesavaram96">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://github.com/kesavaram96">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
----
+<p align="center"><i>Code. Build. Innovate.</i></p>
 
 <p align="center">
-  <b>💻 Code. 🚀 Build. 🤖 Innovate.</b>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11&section=footer" width="100%"/>
 </p>
