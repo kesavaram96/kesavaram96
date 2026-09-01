@@ -147,11 +147,11 @@ A document management solution focused on secure document handling, organization
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesavaram96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavaram96&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kesavaram96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kesavaram96&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -159,10 +159,17 @@ A document management solution focused on secure document handling, organization
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kesavaram96&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=kesavaram96&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.com/?username=kesavaram96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
 
 ## 🐍 Contribution Graph
 
