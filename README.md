@@ -1,3 +1,11 @@
+👋 Hey, I'm KesavaRaam
+🚀 Software Engineer | .NET & Backend Developer | Full-Stack Developer | AI & GenAI Enthusiast
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Solutions;Crafting+Clean+%26+Maintainable+APIs;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG" /> </p>
+
+<p align="center"> <a href="https://github.com/kesavaram96"> <img src="https://img.shields.io/github/followers/kesavaram96?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/kesavaram96?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-33-blue?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:79A500&height=200&section=header&text=KesavaRaam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%26%20Backend%20%7C%20AI%2FGenAI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
