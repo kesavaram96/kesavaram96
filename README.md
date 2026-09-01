@@ -1,76 +1,254 @@
-👋 Hello! I'm Kesavaram, a passionate Software Engineer with a track record of success in C# and ASP.NET Core development. 🚀
+# 👋 Hey, I'm KesavaRaam
 
-🔍 About Me:
+### 🚀 Software Engineer | .NET & Backend Developer | Full-Stack Developer | AI & GenAI Enthusiast
 
-I bring two years of hands-on experience in crafting solutions with MVC and API architecture. My problem-solving skills and organizational prowess enable effective collaboration within dynamic team environments. I'm driven by a passion for excellence and possess a proactive approach to embracing and mastering new programming technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Solutions;Crafting+Clean+%26+Maintainable+APIs;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/kesavaram96">
+    <img src="https://img.shields.io/github/followers/kesavaram96?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/kesavaram96?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-33-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-💼 Professional Experience:
+---
 
-🔹 Software Engineer | HCL Technologies Lanka Pvt Ltd | Colombo, Sri Lanka | Apr '22 - Present:
-- Specializing in C# and .NET Core for MVC and API development.
-- Crafting responsive interfaces using HTML, CSS, JS, and Bootstrap.
-- Working on customized solutions with Dynamics 365 and Power Apps.
+## 🧑‍💻 About Me
 
-🔹 Intern Software Engineer | Capecom Solutions Pvt Ltd | Nagarcoil, India | Mar '21 - Sep '21:
-- Python and Django projects with API and MVT architecture.
-- Collaborated in cross-functional teams, learning software development best practices.
+I'm a **Software Engineer from Sri Lanka** passionate about designing and building reliable, scalable, and maintainable software systems.
 
+My core expertise is in **C#, .NET, ASP.NET Core, REST APIs, SQL Server and modern web technologies**. I enjoy working on backend architecture, enterprise applications, financial systems, and full-stack solutions.
 
-🎓 Education:
+I'm also increasingly exploring **Artificial Intelligence, Generative AI, automation, and intelligent software solutions**.
 
-🔹Master Of Information Technology | Uva Wellassa University | Jul '23 - Present:
- Pursuing advanced studies to deepen my tech expertise.
+```text
+💻 Software Engineering
+   ├── Backend Development
+   ├── RESTful APIs
+   ├── Enterprise Applications
+   └── System Architecture
 
-🔹Bachelor Of Information and Communication Technology (Hons) | University of Jaffna | Mar '17 - Nov '21:
- Grounded my skills and passion in ICT.
+🚀 Technology
+   ├── .NET / ASP.NET Core
+   ├── C#
+   ├── React
+   ├── Python
+   └── SQL Server
 
+🤖 Exploring
+   ├── Artificial Intelligence
+   ├── Generative AI
+   ├── AI Agents
+   └── Intelligent Applications
+```
 
-🛠 Skills:
+---
 
-🔹Languages: C#, Python.
-🔹Frameworks: ASP.Net, ASP.Net Core, Django.
-🔹UI/UX Development: HTML5, CSS, Bootstrap.
-🔹Databases: SQL, MYSQL.
-🔹Version Control: Git, GitHub.
-🔹CRM: Dynamics 365, Power Platform (Power Apps, Automate, BI).
-🔹Tools: Visual Studio, VS Code, Adobe XD.
+## 🛠️ Tech Stack
 
+### 💻 Languages
 
-📜 Certifications:
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,java,js,html,css" />
+</p>
 
-🔹Microsoft Certified: Dynamics 365 Fundamentals (CRM).
-🔹Microsoft Certified: Power Platform Fundamentals.
-🔹Certificate in Coding & Web Development (Igniter Space).
-🔹Certificate in Digital Literacy and Cyber Security (American Corner Kandy).
+### ⚙️ Backend & Frameworks
 
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,django" />
+</p>
 
-📚 Publications:
+**ASP.NET Core • Web API • MVC • Entity Framework Core • REST APIs • JWT • Clean Architecture**
 
-🔹Agent-Based Product Selection in Multi Websites | University of Vavuniya | Nov '21:
- Group research for my Bachelor's, contributing to ICT knowledge.
+### 🎨 Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
 
-🌟 Interests:
+**React • JavaScript • HTML5 • CSS3 • Bootstrap • Material UI**
 
- 🌍 Traveling
- 📷 Photography
- 🎨 Graphics Design
- 📚 Books
- 🎶 Music
+### 🗄️ Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql,mysql" />
+</p>
 
-🏢 Organizations:
+**SQL Server • MySQL • Database Design • Query Optimization**
 
-🔹Co-Founder | Suzhiyam Foundation | Batticaloa, SL.
-🔹Member | Psychological Advisory Center | Batticaloa, SL.
+### ☁️ Tools & Platforms
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,azure" />
+</p>
 
-🔗 Connect with me:
+**Git • GitHub • Visual Studio • VS Code • Docker • Azure DevOps**
 
-🔴 GitHub Profile: (https://github.com/kesavaram96).
-📧 Email: k7raam.stu@gmail.com.
-🌐 Location: Batticaloa, Sri Lanka.
-📞 Phone: +94752147143.
+### 🤖 AI & Emerging Technologies
 
-Thank you for visiting my profile. Let's connect and explore exciting opportunities! 🤝
+**Generative AI • AI Engineering • LLMs • AI Agents • Prompt Engineering • Automation**
+
+---
+
+## 🏗️ What I Build
+
+I enjoy developing systems such as:
+
+* 🔐 Authentication & Authorization Systems
+* 🏦 Financial & Banking Applications
+* 🚌 Bus Reservation & Booking Systems
+* 📄 Document Management Systems
+* 🌐 RESTful APIs
+* 🏥 Management Systems
+* 📊 Business Applications
+* 🤖 AI-powered Applications
+* ⚙️ Automation Solutions
+
+---
+
+## 🚀 Featured Projects
+
+### 🚌 Bus Booking System
+
+A bus reservation platform designed for managing routes, schedules, passengers, bookings and seat allocation.
+
+**Tech:** `ASP.NET Core` `C#` `SQL Server` `React`
+
+---
+
+### 🔐 ASP.NET Core Authentication API
+
+Authentication and authorization system implementing secure API access and token-based authentication.
+
+**Tech:** `ASP.NET Core` `C#` `JWT` `SQL Server`
+
+---
+
+### 📚 ReadBook
+
+A web-based book management/application project built using Python and Django.
+
+**Tech:** `Python` `Django` `HTML` `CSS`
+
+---
+
+### 📄 Security Document Management System
+
+A document management solution focused on secure document handling, organization and API-based integration.
+
+**Tech:** `Python` `REST API` `React` `SQL Server`
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kesavaram96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavaram96&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kesavaram96&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kesavaram96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **Master of Information Technology**
+
+🎓 **Bachelor of Information and Communication Technology (Hons)**
+University of Jaffna
+
+🏅 **Microsoft Certified: Dynamics 365 Fundamentals (CRM)**
+
+🏅 **Microsoft Certified: Power Platform Fundamentals**
+
+---
+
+## 📚 Publication
+
+### 📄 Agent-Based Product Selection in Multi Websites
+
+Research project completed as part of my Bachelor's degree, focusing on intelligent product selection across multiple websites.
+
+---
+
+## 💡 Currently Exploring
+
+```text
+.NET & Clean Architecture       ████████████████████
+Backend Engineering             ████████████████████
+REST API Development            ████████████████████
+SQL & Database Engineering      ██████████████████░░
+React & Full Stack              ████████████████░░░░
+Cloud & DevOps                  █████████████░░░░░░░
+Artificial Intelligence         ███████████████░░░░░
+Generative AI                   ████████████░░░░░░░░
+AI Agents                       ██████████░░░░░░░░░░
+```
+
+---
+
+## 🎯 My Engineering Philosophy
+
+> **"Build software that is simple enough to understand, strong enough to scale, and flexible enough to evolve."**
+
+I believe good software isn't just about making things work.
+
+It's about building systems that are:
+
+**⚡ Reliable • 🔒 Secure • 📈 Scalable • 🧩 Maintainable • 🚀 Production Ready**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/kesavaram96">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code. 🚀 Build. 🤖 Innovate.</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
