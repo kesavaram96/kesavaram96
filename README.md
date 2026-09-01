@@ -1,64 +1,100 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&color=79A500&height=67&duration=3000&center=true&vCenter=true&lines=Hi+There!+I'm+KesavaRaam" alt="KesavaRaam" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="500" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:79A500&height=200&section=header&text=KesavaRaam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%26%20Backend%20%7C%20AI%2FGenAI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=%24+whoami;software+engineer+%E2%80%94+backend%2C+.NET%2C+APIs;%24+cat+currently_exploring.txt;generative+ai+%2B+ai+agents;%24+status;shipping+production+systems+that+don't+fall+over" alt="Typing SVG" />
+
+<a href="https://github.com/kesavaram96"><img src="https://img.shields.io/github/followers/kesavaram96?label=Followers&style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/kesavaram96?tab=repositories"><img src="https://img.shields.io/badge/Repositories-33-blue?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<img src="https://komarev.com/ghpvc/?username=kesavaram96&label=Profile+Views&color=36BCF7&style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:79A500,100:36BCF7&height=4&section=header" width="100%"/>
+
+## 📖 The Short Version
+
+I take requirements that sound simple in a meeting and turn them into systems that still behave correctly under real load. Most of that lives in **ASP.NET Core and SQL Server** — banking features, reservation platforms, document handling. Lately I'm splitting time with **AI agents / GenAI**, figuring out what's genuinely production-ready versus what's just a good demo.
+
+```js
+const kesavaraam = {
+  role: "Software Engineer",
+  base: "Sri Lanka 🇱🇰",
+  daily_driver: ["C#", "ASP.NET Core", "SQL Server"],
+  side_quest: ["Generative AI", "AI Agents", "Prompt Engineering"],
+  philosophy: "simple enough to understand, strong enough to scale, flexible enough to evolve"
+};
 ```
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@                                                      @@
-@@        _____                                        @@
-@@       /     \      C#  ·  .NET  ·  SQL Server        @@
-@@      | () () |     backend engineer, Sri Lanka        @@
-@@       \  ^  /      currently deep in GenAI + agents   @@
-@@       |||||||                                        @@
-@@                                                      @@
-@@   .----------------------------------------------.   @@
-@@   | while ( !bugFree ) { debug(); coffee.drink(); }|   @@
-@@   '----------------------------------------------'   @@
-@@                                                      @@
-@@   "Simple enough to understand,                     @@
-@@    strong enough to scale,                          @@
-@@    flexible enough to evolve."                      @@
-@@                                                      @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:79A500&height=4&section=header" width="100%"/>
+
+## 🧭 The Journey
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎓 University of Jaffna<br/>B.ICT Hons] --> B[💼 Capecom Solutions]
+    B --> C[💼 HCL Technologies Lanka]
+    C --> D[🎓 Master of IT<br/>in progress]
+    D --> E[🏦 Seylan Bank<br/>Software Engineer]
+    style A fill:#36BCF7,color:#fff
+    style B fill:#4a9fd8,color:#fff
+    style C fill:#5e83b9,color:#fff
+    style D fill:#6d689b,color:#fff
+    style E fill:#79A500,color:#fff
 ```
 
-<p align="center">
-  <b>🔥 FUN FACT EVERYDAY 🔥</b><br>
-  <i>"The first computer bug was an actual moth found trapped in a Harvard Mark II relay in 1947."</i>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:79A500,100:36BCF7" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:79A500,100:36BCF7&height=4&section=header" width="100%"/>
 
-## 🧑‍💻 About Me
-
-Software Engineer based in Sri Lanka, working mainly in **C#, ASP.NET Core, and SQL Server** — building the kind of systems where "it mostly works" doesn't cut it: banking features, booking platforms, document pipelines. Currently splitting time between that and **AI agents / Generative AI**, figuring out what's actually production-worthy versus what's just a good demo.
+## 🧰 Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,js,react,html,css,mssql,mysql,git,github,vscode,visualstudio,docker,azure" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:36BCF7,100:79A500" width="100%"/>
-</p>
+<table align="center">
+<tr><th align="left">Layer</th><th align="left">Tools</th></tr>
+<tr><td>🏗️ Backend</td><td>ASP.NET Core · Web API · MVC · EF Core · JWT · Clean Architecture</td></tr>
+<tr><td>🎨 Frontend</td><td>React · JavaScript · HTML5/CSS3 · Bootstrap · Material UI</td></tr>
+<tr><td>🗄️ Data</td><td>SQL Server · MySQL · Query Optimization</td></tr>
+<tr><td>⚙️ Platform</td><td>Dynamics 365 · Power Platform</td></tr>
+<tr><td>☁️ DevOps</td><td>Git · GitHub · Docker · Azure DevOps</td></tr>
+<tr><td>🤖 AI</td><td>LLMs · AI Agents · Prompt Engineering</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:79A500&height=4&section=header" width="100%"/>
 
 ## 🗂️ Things I've Built
 
-| Project | Stack |
-|---|---|
-| 🚌 **Bus Booking System** — routes, schedules, seat allocation, passenger management | `ASP.NET Core` `C#` `SQL Server` `React` |
-| 🔐 **Authentication API** — token-based auth for secure, production-grade access | `ASP.NET Core` `C#` `JWT` `SQL Server` |
-| 📄 **Security Document Management System** — secure handling, org, API integration | `Python` `REST API` `React` `SQL Server` |
-| 📚 **ReadBook** — a web-based book management app | `Python` `Django` `HTML` `CSS` |
+<details open>
+<summary><b>🚌 Bus Booking System</b> — <code>ASP.NET Core</code> <code>C#</code> <code>SQL Server</code> <code>React</code></summary>
+<br>
+A full reservation platform — routes, schedules, seat allocation, passenger management. The unglamorous part (concurrent seat locking, schedule conflicts) is where the real engineering lived.
+</details>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:79A500,100:36BCF7" width="100%"/>
-</p>
+<details>
+<summary><b>🔐 Authentication API</b> — <code>ASP.NET Core</code> <code>C#</code> <code>JWT</code> <code>SQL Server</code></summary>
+<br>
+Token-based authentication and authorization built for secure, production-grade API access.
+</details>
+
+<details>
+<summary><b>📄 Security Document Management System</b> — <code>Python</code> <code>REST API</code> <code>React</code> <code>SQL Server</code></summary>
+<br>
+Secure document handling, organization, and API-based integration for enterprise use.
+</details>
+
+<details>
+<summary><b>📚 ReadBook</b> — <code>Python</code> <code>Django</code> <code>HTML</code> <code>CSS</code></summary>
+<br>
+A web-based book management application.
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:79A500,100:36BCF7&height=4&section=header" width="100%"/>
 
 ## 📊 Profile Metrics
 
@@ -76,25 +112,14 @@ Software Engineer based in Sri Lanka, working mainly in **C#, ASP.NET Core, and 
 </p>
 
 <p align="center">
-  <a href="https://github.com/kesavaram96?tab=stars&sort=stargazers">
-    <img alt="total stars" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kesavaram96" />
-  </a>
-  <a href="https://github.com/kesavaram96?tab=followers">
-    <img alt="followers" src="https://custom-icon-badges.herokuapp.com/github/followers/kesavaram96?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kesavaram96&theme=react-dark&hide_border=true&color=36BCF7&line=79A500&point=ffffff" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kesavaram96&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" />
+  <img src="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:36BCF7,100:79A500" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:79A500&height=4&section=header" width="100%"/>
 
 ## 🎓 Credentials
 
@@ -104,36 +129,30 @@ Software Engineer based in Sri Lanka, working mainly in **C#, ASP.NET Core, and 
 - 🏅 Microsoft Certified: Power Platform Fundamentals
 - 📄 Publication: *Agent-Based Product Selection in Multi Websites*
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:79A500,100:36BCF7&height=4&section=header" width="100%"/>
+
 ## 📡 Skill Signal
 
 ```text
-.NET & Clean Architecture   ▰▰▰▰▰▰▰▰▰▰  100%
-Backend Engineering         ▰▰▰▰▰▰▰▰▰▰  100%
-REST API Development        ▰▰▰▰▰▰▰▰▰▰  100%
-SQL & Database Engineering  ▰▰▰▰▰▰▰▰▰░   90%
-React & Full Stack          ▰▰▰▰▰▰▰▰░░   80%
-Generative AI                ▰▰▰▰▰▰▰▰░░  75%
-Cloud & DevOps                ▰▰▰▰▰▰▰░░░  65%
-AI Agents                     ▰▰▰▰▰░░░░░  50%
+.NET & Clean Architecture   ▰▰▰▰▰▰▰▰▰▰  100%   rock solid
+Backend Engineering         ▰▰▰▰▰▰▰▰▰▰  100%   home turf
+REST API Development        ▰▰▰▰▰▰▰▰▰▰  100%   could do it half asleep
+SQL & Database Engineering  ▰▰▰▰▰▰▰▰▰░   90%   still learning the edge cases
+React & Full Stack          ▰▰▰▰▰▰▰▰░░   80%   comfortable, not a specialist
+Generative AI                ▰▰▰▰▰▰▰▰░░  75%   fast-moving, keeping pace
+Cloud & DevOps                ▰▰▰▰▰▰▰░░░  65%   growing deliberately
+AI Agents                     ▰▰▰▰▰░░░░░  50%   actively figuring it out
 ```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&section=header&reversal=false&color=0:79A500,100:36BCF7" width="100%"/>
-</p>
+<div align="center">
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/kesavaram96">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/kesavaram96"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<p align="center"><i>Code. Build. Innovate.</i></p>
+<i>Code. Build. Innovate.</i>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11&section=footer" width="100%"/>
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:79A500,100:36BCF7&height=120&section=footer" width="100%"/>
