@@ -1,10 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=220&section=header&text=Kesavaraam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20%26%20Dynamics%20365&descAlignY=58&descSize=18" />
+# 👋 Hey, I'm KesavaRaam
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&width=650&lines=Software+Engineer+%40+Seylan+Bank+PLC;C%23+%7C+ASP.NET+Core+%7C+MVC+%2F+API+Architecture;Dynamics+365+%7C+Power+Platform;Building+reliable+banking+software+in+Sri+Lanka" alt="Typing SVG" />
-</a>
+### 🚀 Software Engineer | .NET & Backend Developer | Full-Stack Developer | AI & GenAI Enthusiast
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Solutions;Crafting+Clean+%26+Maintainable+APIs;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/kesavaram96">
+    <img src="https://img.shields.io/github/followers/kesavaram96?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/kesavaram96?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-33-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kesavaraam-rathnasingam-7710a8180/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
 
 </div>
 
