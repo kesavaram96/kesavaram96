@@ -25,7 +25,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlserver,azure,git,github,html,css,js&theme=dark" />
 </div>
-   
+
 <br/>
 
 ### 📊 GitHub Stats
@@ -41,10 +41,18 @@
 
 <br/>
 
-### 🐍 Contribution Snake
+### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kesavaram96/kesavaram96/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kesavaram96&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kesavaram96&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
